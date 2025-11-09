@@ -3,7 +3,7 @@ Google IDX template for openbb-hka
 
 openbb-hka can be run using Google Firebase Studio.
 
-<a href="https://idx.google.com/new?template=https://github.com/finanalyzer/idx/tree/master/hka">
+<a href="https://idx.google.com/new?template=https:%2F%2Fgithub.com%2Ffinanalyzer%2Fidx%2Ftree%2Fmain%2Fhka">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
